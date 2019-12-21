@@ -1,0 +1,31 @@
+body {
+  background-color: #207884;
+}
+#container {
+  display: flex;
+  justify-content: space-around;
+  width: 60%;
+  margin: 3rem auto;
+  background-color: white;
+  border-radius: 5px;
+}
+
+#preview,
+#editor {
+  height: 560px;
+  width: 100%;
+  padding: 10px;
+  background-color: #eeecec;
+  border-radius: 5px;
+  overflow: scroll;
+}
+
+#editor {
+  background-color: #c333ab;
+  color: white;
+  font-size: 15px;
+}
+#preview {
+  background-color: white;
+  font-size: 15px;
+}

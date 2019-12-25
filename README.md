@@ -9,6 +9,8 @@ In the project directory, you can run:
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+### Information
+
 This project is written as a part of front end libraries certification.
 
 This CDN link has been used to run the tests for verifying user stories in the problem statement: https://cdn.freecodecamp.org/testable-projects-fcc/v1/bundle.js
